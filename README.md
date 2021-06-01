@@ -53,5 +53,5 @@ A Postman v2.1 collection is included in this project as an example.
 
 # Credits
 These authors wrote helpful tutorials that enabled me to create this demo.
-- [Baeldung]("https://www.baeldung.com/spring-aop")
-- [Lokesh Gupta]("https://howtodoinjava.com/spring-boot2/aop-aspectj/")
+- [Baeldung](https://www.baeldung.com/spring-aop)
+- [Lokesh Gupta](https://howtodoinjava.com/spring-boot2/aop-aspectj/)
